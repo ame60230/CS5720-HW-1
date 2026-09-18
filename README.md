@@ -23,16 +23,3 @@ Loaded and preprocessed the MNIST handwritten digit dataset. Two neural network 
 ## Question 4 - TensorBoard
 
 Trained a neural network on the MNIST dataset for five epochs and enabled TensorBoard logging. Training and validation accuracy and loss were monitored using TensorBoard.
-
-## Technologies Used
-
-- Python
-- TensorFlow
-- Keras
-- Matplotlib
-- Google Colab
-- TensorBoard
-
-## Files
-
-- `CS5720_Home_Assignment_1.ipynb` - Complete assignment notebook containing code, outputs, graphs, and explanations.
