@@ -1,11 +1,8 @@
-# CS5720-HW-1
-CS5720 Neural Network and Deep Learning - Home Assignment 1
-
 # CS5720 Home Assignment 1
 
-**Student Name:** Aziz Erdogan  
-**Course:** CS5720 Neural Network and Deep Learning  
-**Semester:** Fall 2026
+Aziz Erdogan 
+ID #700706023
+CS5720 Neural Network and Deep Learning  
 
 ## Overview
 
