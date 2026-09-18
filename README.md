@@ -1,7 +1,6 @@
 # CS5720 Home Assignment 1
 
 Aziz Erdogan 
-ID #700706023
 CS5720 Neural Network and Deep Learning  
 
 ## Overview
